@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="zsys_wrapper_hw_platform_0" key="programflash.hwplatform"/>
+	<item value="true" key="zsys_wrapper_hw_platform_0-blankCheck"/>
+	<item value="Auto Detect" key="zsys_wrapper_hw_platform_0-device"/>
+	<item value="Local" key="zsys_wrapper_hw_platform_0-target"/>
+	<item value="0x00" key="zsys_wrapper_hw_platform_0-offSet"/>
+	<item value="/home/kdich/workspace/zynq/vivado/7010/adc_eth/adc_eth.sdk/fsbl/Debug/fsbl.elf" key="zsys_wrapper_hw_platform_0-fsblFile"/>
+	<item value="/home/kdich/workspace/zynq/vivado/7010/adc_eth/bootfiles/BOOT.bin" key="zsys_wrapper_hw_platform_0-imgFile"/>
+	<item value="qspi_single" key="zsys_wrapper_hw_platform_0-flashType"/>
+	<item value="true" key="zsys_wrapper_hw_platform_0-verifyFlash"/>
+</section>

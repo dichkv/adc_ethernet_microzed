@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Fri Nov  9 00:42:57 2018
+# Process ID: 3175
+# Current directory: /home/kdich/workspace/zynq/vivado/7010/adc_eth/adc_eth.runs/zsys_rst_ps7_0_100M_0_synth_1
+# Command line: vivado -log zsys_rst_ps7_0_100M_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source zsys_rst_ps7_0_100M_0.tcl
+# Log file: /home/kdich/workspace/zynq/vivado/7010/adc_eth/adc_eth.runs/zsys_rst_ps7_0_100M_0_synth_1/zsys_rst_ps7_0_100M_0.vds
+# Journal file: /home/kdich/workspace/zynq/vivado/7010/adc_eth/adc_eth.runs/zsys_rst_ps7_0_100M_0_synth_1/vivado.jou
+#-----------------------------------------------------------
+source zsys_rst_ps7_0_100M_0.tcl -notrace

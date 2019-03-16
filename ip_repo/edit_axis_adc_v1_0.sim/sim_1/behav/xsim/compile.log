@@ -1,0 +1,26 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/kdich/workspace/zynq/vivado/7020/ip_repo/axis_adc_1.0/hdl/axis_adc_v1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity axis_adc_v1_0
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/kdich/workspace/zynq/vivado/7020/ip_repo/axis_adc_1.0/hdl/axis_adc_v1_0_M00_AXIS.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity axis_adc_v1_0_M00_AXIS
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/kdich/workspace/zynq/vivado/7020/ip_repo/edit_axis_adc_v1_0.srcs/sim_1/new/tb_axis_adc_v1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_axis_adc_v1_0
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/kdich/workspace/zynq/vivado/7020/ip_repo/edit_axis_adc_v1_0.srcs/sim_1/new/tb_axis_adc_v1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_axis_adc_v1_0
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/kdich/workspace/zynq/vivado/7020/ip_repo/edit_axis_adc_v1_0.srcs/sim_1/new/tb_axis_adc_v1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_axis_adc_v1_0
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/kdich/workspace/zynq/vivado/7020/ip_repo/edit_axis_adc_v1_0.srcs/sim_1/new/tb_axis_adc_v1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_axis_adc_v1_0
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/kdich/workspace/zynq/vivado/7020/ip_repo/edit_axis_adc_v1_0.srcs/sim_1/new/tb_axis_adc_v1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_axis_adc_v1_0
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/kdich/workspace/zynq/vivado/7020/ip_repo/axis_adc_1.0/hdl/axis_adc_v1_0_M00_AXIS.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity axis_adc_v1_0_M00_AXIS
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/kdich/workspace/zynq/vivado/7020/ip_repo/axis_adc_1.0/hdl/axis_adc_v1_0_M00_AXIS.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity axis_adc_v1_0_M00_AXIS
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/kdich/workspace/zynq/vivado/7020/ip_repo/axis_adc_1.0/hdl/axis_adc_v1_0_M00_AXIS.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity axis_adc_v1_0_M00_AXIS
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/kdich/workspace/zynq/vivado/7020/ip_repo/edit_axis_adc_v1_0.srcs/sim_1/new/tb_axis_adc_v1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_axis_adc_v1_0
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/kdich/workspace/zynq/vivado/7020/ip_repo/edit_axis_adc_v1_0.srcs/sim_1/new/tb_axis_adc_v1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_axis_adc_v1_0
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/kdich/workspace/zynq/vivado/7020/ip_repo/edit_axis_adc_v1_0.srcs/sim_1/new/tb_axis_adc_v1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_axis_adc_v1_0

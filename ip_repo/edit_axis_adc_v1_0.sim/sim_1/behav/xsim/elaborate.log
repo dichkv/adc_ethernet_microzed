@@ -1,0 +1,17 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: /opt/Xilinx/Vivado/2018.2/bin/unwrapped/lnx64.o/xelab -wto 13a5a402cd64456fb815ca324c143350 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot tb_axis_adc_v1_0_behav xil_defaultlib.tb_axis_adc_v1_0 -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture implementation of entity xil_defaultlib.axis_adc_v1_0_M00_AXIS [\axis_adc_v1_0_M00_AXIS(number_o...]
+Compiling architecture arch_imp of entity xil_defaultlib.axis_adc_v1_0 [\axis_adc_v1_0(number_of_output_...]
+Compiling architecture behavioral of entity xil_defaultlib.tb_axis_adc_v1_0
+Built simulation snapshot tb_axis_adc_v1_0_behav

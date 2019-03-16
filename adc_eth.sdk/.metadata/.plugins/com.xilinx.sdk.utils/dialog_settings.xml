@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="/home/kdich/workspace/zynq/vivado/7010/adc_eth/bootfiles" key="bootgen_files_selection"/>
+	<item value="/home/kdich/workspace/zynq/vivado/7010/adc_eth/adc_eth.runs/impl_1" key="debug_files_selection"/>
+	<item value="/home/kdich/workspace/zynq/vivado/7010/adc_eth/adc_eth.sdk/fsbl/Debug" key="zynq_flash_files_selection"/>
+	<item value="/home/kdich/workspace/zynq/vivado/7010/adc_eth/bootfiles" key="last_stored_selection"/>
+</section>

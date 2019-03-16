@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Fri Nov  9 00:42:57 2018
+# Process ID: 3173
+# Current directory: /home/kdich/workspace/zynq/vivado/7010/adc_eth/adc_eth.runs/zsys_axi_smc_0_synth_1
+# Command line: vivado -log zsys_axi_smc_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source zsys_axi_smc_0.tcl
+# Log file: /home/kdich/workspace/zynq/vivado/7010/adc_eth/adc_eth.runs/zsys_axi_smc_0_synth_1/zsys_axi_smc_0.vds
+# Journal file: /home/kdich/workspace/zynq/vivado/7010/adc_eth/adc_eth.runs/zsys_axi_smc_0_synth_1/vivado.jou
+#-----------------------------------------------------------
+source zsys_axi_smc_0.tcl -notrace

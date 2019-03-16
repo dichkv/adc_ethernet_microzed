@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../axis_adc_1.0/hdl/axis_adc_v1_0.vhd" \
+"../../../../axis_adc_1.0/hdl/axis_adc_v1_0_M00_AXIS.vhd" \
+"../../../../edit_axis_adc_v1_0.srcs/sim_1/new/tb_axis_adc_v1_0.vhd" \
+
+# Do not sort compile order
+nosort

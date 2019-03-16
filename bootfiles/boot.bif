@@ -1,0 +1,8 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]/home/kdich/workspace/zynq/vivado/7010/adc_eth/adc_eth.sdk/fsbl/Debug/fsbl.elf
+	/home/kdich/workspace/zynq/vivado/7010/adc_eth/adc_eth.runs/impl_1/zsys_wrapper.bit
+	/home/kdich/workspace/zynq/vivado/7010/adc_eth/adc_eth.sdk/udp_send_cpu0/Debug/udp_send_cpu0.elf
+	/home/kdich/workspace/zynq/vivado/7010/adc_eth/adc_eth.sdk/adc_dma_cpu1/Debug/adc_dma_cpu1.elf
+}
